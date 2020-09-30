@@ -18,6 +18,10 @@ div.form-group {
   font-weight: 700;
 }
 
+div #cityElement {
+  padding: 0;
+}
+
 div.row-col-5 {
   border: 3px solid violet;
   padding: 20px 20px 50px 20px;
@@ -130,6 +134,7 @@ i#snow4 {
   font-size: 80px;
 }
 
-footer{
+footer {
   text-align: center;
+  padding-top: 40px;
 }
